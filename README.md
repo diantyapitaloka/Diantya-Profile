@@ -11,5 +11,5 @@ Data analysis and reporting using Google Sheets and Excel.
 - Database: Google BigQuery
 - Visualization: Tableau, Looker Studio, Power BI
 
-## 👋🏻 Connect with Me
+## 👋🏻 Get in Touch
 - Linkedin = Diantya Pitaloka
