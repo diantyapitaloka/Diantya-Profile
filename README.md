@@ -13,4 +13,4 @@ Data analysis and reporting using Google Sheets and Excel.
 
 ## 👋🏻 Get in Touch
 - Linkedin = [Diantya Pitaloka](https://www.linkedin.com/in/diantyapitaloka/)
-- GitHUb = https://github.com/diantyapitaloka
+- GitHub = [Diantya Pitaloka](https://github.com/diantyapitaloka)
