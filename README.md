@@ -12,4 +12,5 @@ Data analysis and reporting using Google Sheets and Excel.
 - Visualization: Tableau, Looker Studio, Power BI
 
 ## 👋🏻 Get in Touch
-- Linkedin = Diantya Pitaloka
+- Linkedin = [Diantya Pitaloka](https://www.linkedin.com/in/diantyapitaloka/)
+- GitHUb = https://github.com/diantyapitaloka
