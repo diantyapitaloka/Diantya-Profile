@@ -4,7 +4,7 @@ Hello, I'm Diantya. Data Analyst with expertise in data analysis and reporting, 
 Querying data using SQL and Python.
 Generate reports and perform ad-hoc data analysis using SQL.
 Developing dashboards on Tableau and Looker Studio.
-Data analysis and reporting using Google Sheets and Excel.
+Data analysis and reporting using Google Sheets and Excels.
 
 ## 🛠️ Tech Tools
 - Language: SQL, Python
